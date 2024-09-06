@@ -1,10 +1,11 @@
-![giphy](https://github.com/user-attachments/assets/e635c8a9-433e-4e16-b09a-70d33b5e9285)
+  ![giphy](https://github.com/user-attachments/assets/e635c8a9-433e-4e16-b09a-70d33b5e9285)
 
 
 ## 👋 Hello there! Welcome to my profile!
 I'm Diana, a passionate behavioural researcher with a keen interest in the intersection of behaviour, environment, and technology.
 
 What I Do:
+
 🧠 Behavioral Research: I specialize in exploring primate behaviour and decision-making processes.
 
 💻 Technology: Currently studying Data Analytics at Turing College.
