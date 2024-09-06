@@ -2,6 +2,9 @@
 
 I'm Diana, a passionate behavioural researcher interested in the intersection of behaviour, environment, and technology. 
 
+
+
+
  What I Do:
 
 🧠 Behavioral Research: I have a background in exploring primate behaviour and decision-making processes.
@@ -27,9 +30,10 @@ Travel to India and Mozambique
 Never stop learning
 
 🗣️ I speak :
-Portuguese 
-English
-Italian 
+🇵🇹 - Portuguese (mother-tongue)
+🇬🇧 - English
+🇮🇹 - Italian
+
 
 
 
