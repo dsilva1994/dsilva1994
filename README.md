@@ -21,10 +21,15 @@ I’m eager to collaborate on projects that merge these fields, aiming to design
 🎧 Podcasts: I’m addicted to listening to podcasts on a variety of random topics.
 
 🎯 Some of My Ambitions:
+
 Learn Spanish
+
 Get very proficient in Python
+
 Work in a team to create meaningful impacts in the world
+
 Travel to India and Mozambique
+
 Never stop learning
 
 
