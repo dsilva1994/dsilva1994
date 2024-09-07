@@ -49,9 +49,13 @@ Never stop learning
 
 
 I speak the following languages 🗣️:
+
 🇵🇹 - Portuguese (mother-tongue)
+
 🇬🇧 - English
+
 🇮🇹 - Italian
+
 
 
 
