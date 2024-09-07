@@ -4,23 +4,30 @@
 ## 👋 Hello there! Welcome to my profile!
 I'm Diana, a passionate behavioural researcher with a keen interest in the intersection of behaviour, environment, and technology.
 
-What I Do:
+What I Do 🧠💻:
 
-🧠 Behavioral Research: I specialize in exploring primate behaviour and decision-making processes.
+Behavioural Research: I specialize in exploring primate behaviour and decision-making processes.
 
-💻 Technology: Currently studying Data Analytics at Turing College.
+Technology: Currently studying Data Analytics at Turing College.
 
-🚀 What Excites Me:
+What Excites Me 🚀:
+
 I’m eager to collaborate on projects that merge these fields, aiming to design better user experiences, improve digital communication strategies, and harness technology to create meaningful and impactful solutions. I’m always ready to collaborate and happy to exchange resources!
 
-🚶‍♂️ What I Like to Do in My Free Time:
-📚 Reading: I love delving into novels, especially those that offer perspectives different from my own.
+Programming Languages 👩‍💻 :
 
-🥾 Trekking: Enjoying the wild helps me clear my mind.
+SQL
+PYTHON 
 
-🎧 Podcasts: I’m addicted to listening to podcasts on a variety of random topics.
+What I Like to Do in My Free Time 📚🥾🎧 :
 
-🎯 Some of My Ambitions:
+Reading: I love delving into novels, especially those that offer perspectives different from my own.
+
+Trekking: Enjoying the wild helps me clear my mind.
+
+Podcasts: I’m addicted to listening to podcasts on a variety of random topics.
+
+Some of My Ambitions 🎯:
 
 Learn Spanish
 
@@ -33,7 +40,7 @@ Travel to India and Mozambique
 Never stop learning
 
 
-🗣️ I speak :
+I speak the following languages 🗣️:
 🇵🇹 - Portuguese (mother-tongue)
 🇬🇧 - English
 🇮🇹 - Italian
