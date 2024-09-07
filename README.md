@@ -18,9 +18,9 @@ Programming Languages 👩‍💻 :
 
 <img src="https://github.com/user-attachments/assets/c15349cd-5aa2-4366-bb9f-724e3816ea5b" alt="transferir" width="80" height="40"/>    <img src="https://github.com/user-attachments/assets/ec2be976-03cb-4dcb-a758-f22290ac1af4" alt="64f36195573eec62511adc821d374ceb3619b37f" width="40" height="40"/>
 
+Tecnologies I use 🖥️ :
 
 
-PYTHON 
 
 What I Like to Do in My Free Time 📚🥾🎧 :
 
