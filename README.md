@@ -16,7 +16,9 @@ I’m eager to collaborate on projects that merge these fields, aiming to design
 
 Programming Languages 👩‍💻 :
 
-SQL
+<img src="https://github.com/user-attachments/assets/c15349cd-5aa2-4366-bb9f-724e3816ea5b" alt="transferir" width="80" height="40"/>
+
+
 PYTHON 
 
 What I Like to Do in My Free Time 📚🥾🎧 :
