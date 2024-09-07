@@ -20,7 +20,8 @@ Programming Languages 👩‍💻 :
 
 Tecnologies I use 🖥️ :
 
-<img src="https://github.com/user-attachments/assets/1a792273-62e2-4762-80ca-0f480dc0ba60" alt="65a80db6a97ea2f4fd5313b3_64ad8bbbcae3f2e700585982_645e3c7f5dd731130b9b7525_Group%25208" width="50" height="50"/> 
+<img src="https://github.com/user-attachments/assets/1a792273-62e2-4762-80ca-0f480dc0ba60" alt="65a80db6a97ea2f4fd5313b3_64ad8bbbcae3f2e700585982_645e3c7f5dd731130b9b7525_Group%25208" width="50" height="50"/> <img src="https://github.com/user-attachments/assets/2a49d6e7-6bd9-4b16-8fa1-e29058053afd" alt="images" width="50" height="50"/>
+
 
 
 
