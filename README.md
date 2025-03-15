@@ -28,7 +28,7 @@ I am experienced in data management, curation, analysis and visualisation.
 
 
 
-### I am committed to be a professional strong in: 
+### I am committed to being a strong professional in: 
 - Collaborative work
 - Flexibility
 - Curiosity
