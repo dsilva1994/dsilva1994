@@ -14,7 +14,7 @@ I am experienced in data management, curation, analysis and visualisation.
 
 ### What Excites Me 🚀:
 
-- I’m eager to collaborate on projects that merge by backgrounds, aiming to design better user experiences, improve digital communication strategies, and harness technology to create meaningful and impactful solutions. 
+- I’m eager to collaborate on projects that merge my backgrounds, aiming to design better user experiences, improve digital communication strategies, and harness technology to create meaningful and impactful solutions. 
 - I’m always ready to collaborate and happy to exchange resources!
 
 ### Programming Languages 👩‍💻 :
@@ -29,9 +29,9 @@ I am experienced in data management, curation, analysis and visualisation.
 
 
 ### I am committed to being a strong professional in: 
-- Collaborative work
-- Flexibility
-- Curiosity
+- Collaborative work.
+- Flexibility.
+- Curiosity.
 
 ### What I Like to Do in My Free Time 📚🥾🎧 :
 
@@ -43,15 +43,15 @@ I am experienced in data management, curation, analysis and visualisation.
 
 ### Some of My Ambitions 🎯:
 
-- Learn Spanish
+- Learn Spanish.
 
 - Explore machine learning, AI and data engineering. 
 
-- Work in a team to create meaningful impacts in the world
+- Work in a team to create meaningful impacts in the world.
 
-- Travel to India and Mozambique
+- Travel to India and Mozambique.
 
-- Never stop learning
+- Never stop learning.
 
 
 ### I speak the following languages 🗣️:
